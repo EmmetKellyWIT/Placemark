@@ -49,4 +49,4 @@ on the google play store.
 
 # Author
 Emmet Kelly, Student number 20075740.
-06/09/2019 at 11:22am
+06/09/2019 at 11am
