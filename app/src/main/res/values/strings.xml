@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SurfSpot</string>
+    <string name="button_addPlacemark">Add SurfSpot</string>
+    <string name="button_savePlacemark">Save SurfSpot</string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="change_placemark_image">Change image</string>
+    <string name="hint_placemarkTitle">Title</string>
+    <string name="hint_placemarkDescription">Description</string>
+    <string name="hint_placemarkWarnings">Warnings</string>
+    <string name="menu_addPlacemark">Add</string>
+    <string name="menu_cancelPlacemark">Cancel</string>
+    <string name="message_enter_title">Please enter a title</string>
+    <string name="select_placemark_image">Select image</string>
+    <string name="menu_deletePlacemark">Delete</string>
+</resources>
