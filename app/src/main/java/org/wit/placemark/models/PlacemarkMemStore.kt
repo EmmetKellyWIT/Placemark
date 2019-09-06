@@ -9,6 +9,8 @@ internal fun getId(): Long {
     return lastId++
 }
 
+
+
 class PlacemarkMemStore : PlacemarkStore, AnkoLogger {
 
     val placemarks = ArrayList<PlacemarkModel>()
